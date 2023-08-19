@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/f4-c2-signform/static/css/main.c5f0f5c8.css",
+    "main.js": "/f4-c2-signform/static/js/main.1843ce15.js",
+    "static/media/bg-1.png": "/f4-c2-signform/static/media/bg-1.0b8141e39145356609be.png",
+    "index.html": "/f4-c2-signform/index.html",
+    "main.c5f0f5c8.css.map": "/f4-c2-signform/static/css/main.c5f0f5c8.css.map",
+    "main.1843ce15.js.map": "/f4-c2-signform/static/js/main.1843ce15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f0f5c8.css",
+    "static/js/main.1843ce15.js"
+  ]
+}
